@@ -1,6 +1,5 @@
 # 📌 My Portfolio
 
-[Live Preview](https://parshuramkumar.vercel.app/)
 
 This is my personal portfolio website built with **React.js** and styled using **Tailwind CSS**.  
 It showcases my projects, skills, and experience.
